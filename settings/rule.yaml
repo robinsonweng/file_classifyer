@@ -1,0 +1,30 @@
+music:
+    - wav
+    - mp3
+    - flac
+    - m4a
+    - midi
+document:
+    - pdf
+    - txt
+    - docx
+    - ppt
+    - pptx
+    - doc
+    - odf
+picture:
+    - bmp
+    - gif
+    - ico
+    - jpeg
+    - svg
+    - jpg
+    - png
+    - tif
+    - tiff
+video:
+    - avi
+    - mp4
+    - mkv
+    - rmvb
+    - ts
